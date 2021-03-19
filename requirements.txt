@@ -51,7 +51,7 @@ numpy==1.16.1
 pathlib==1.0.1
 Pattern==3.6
 pdfminer==20140328
-Pillow==5.4.1
+Pillow==8.1.1
 plac==0.9.6
 portend==2.3
 preshed==2.0.1
