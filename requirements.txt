@@ -36,7 +36,7 @@ html5lib==1.0.1
 idna==2.8
 ijson==2.3
 jaraco.functools==2.0
-Jinja2==2.7.2
+Jinja2==2.11.3
 jmespath==0.9.4
 lxml==3.3.5
 MarkupSafe==1.1.1
